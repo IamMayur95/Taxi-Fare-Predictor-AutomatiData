@@ -1,4 +1,4 @@
-# TaxiFarePredictor-AutomatiData
+# Taxi-Fare-Predictor-AutomatiData
 
 # Overview
 The goal of this project is to create a multiple linear regression model to predict ride fares based on multiple variables. This project utilized yellow taxi trips taken in New York City during 2017. The final multiple linear regression model performed with R^2 of 0.868 indicating 86.8% variance being explained by the model.
