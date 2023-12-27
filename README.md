@@ -16,8 +16,6 @@ A multiple linear regression model is built based on the data and the distributi
 
 
 # Conclusion
-The linear regression model provides a sound framework in estimating the fare amounts of the taxi rides.  Taxi fare prediction model can have a widespread positive impact on various stakeholders, promoting efficiency, transparency, and satisfaction in the transportation ecosystem.
+The linear regression model provides a sound framework in estimating the fare amounts of the taxi rides.  Taxi fare prediction model can have a widespread positive impact on various stakeholders, promoting efficiency, transparency, and satisfaction in the transportation ecosystem. In order to indicate the efficacy of the linear regression model , below scatter plot is included to compare the predicted vs actual fares.
 
-In order to indicate the efficacy of the linear regression model , below scatter plot is included to compare the predicted vs actual fares.
-
-![AutomatiData-4](https://github.com/IamMayur95/TaxiFarePredictor-AutomatiData/assets/67839699/a1cb059b-82af-4b90-996f-c53e24fc6d0c)
+![AutomatiData-4](https://github.com/IamMayur95/TaxiFarePredictor-AutomatiData/assets/67839699/a5593484-4891-44d2-802c-cb17928dae79)
