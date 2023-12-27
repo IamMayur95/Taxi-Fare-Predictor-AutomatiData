@@ -11,6 +11,8 @@ The NYC Taxi and Limousine Commission data came from NYC.gov (https://www.nyc.go
 
 # Modeling and Evaluation
 A multiple linear regression model is built based on the data and the distribution of the data to estimate the taxi fares before the ride.Below plot shows that Mean Duration is the most important feature in estimating the fare. The overall model performed with R^2 of 0.868 , MAE of 2.13 , MSE of 14.33 and RMSE of 3.79
+Final model:
+predicted_fare = 0.030825*(passenger_count) + 1.995592*(mean_distance) + 2.812115*(mean_duration) + 0.110233*(rush_hour) - 0.054373*(VendorID_2)
 
 ![AutomatiData-3](https://github.com/IamMayur95/TaxiFarePredictor-AutomatiData/assets/67839699/0d813d54-ed99-4d89-b419-7ee8138a5a6d)
 
